@@ -1,6 +1,6 @@
 Introduction: This is a course project, which consists of 4 parts. 
 
-Contents: Theoretical basis is option valuation-related models: Black-Scholes model, Displaced-Diffusion model, SABR model, Brownian motion.
+Contents: Theoretical basis is option valuation-related models: Black-Scholes model, Displaced-Diffusion model, SABR model, and Brownian motion.
 Python-related methods include interpolate, brentq, fsolve, least_squares, and plotting.
 
 Programming Language: Python
